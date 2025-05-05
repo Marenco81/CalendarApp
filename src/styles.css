@@ -48,3 +48,12 @@
   position: fixed;
   right: 100px;
 }
+
+.fab-danger {
+  border-radius: 100%;
+  bottom: 25px;
+  font-size: 20px;
+  /* padding: 25px; */
+  position: fixed;
+  left: 100px;
+}
